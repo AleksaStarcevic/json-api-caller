@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2019-07-16",
+    "media_type": "image",
+    "explanation": "Picture of James Webb Telescope",
+    "title": "Telescope",
+    "url": "https://api.nasa.gov/"
+  },
+  {
+    "date": "2018-11-12",
+    "media_type": "image",
+    "explanation": "Curiosity Rover",
+    "title": "Rover",
+    "url": "https://api.nasa.gov/"
+  }
+]

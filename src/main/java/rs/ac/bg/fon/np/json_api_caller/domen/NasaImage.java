@@ -12,8 +12,22 @@ public class NasaImage {
 	public NasaImage() {
 		// TODO Auto-generated constructor stub
 	}
+	
+	
 
 	
+
+	public NasaImage(String date, String media_type, String explanation, String title, String url) {
+		this.date = date;
+		this.media_type = media_type;
+		this.explanation = explanation;
+		this.title = title;
+		this.url = url;
+	}
+
+
+
+
 
 	public String getDate() {
 		return date;
